@@ -1,0 +1,1 @@
+export const DATABASE_URL = 'mongodb+srv://mkchoii:pangpar1!@mkchoii.p8bp8bd.mongodb.net/todo-api?retryWrites=true&w=majority&appName=mkchoii'
